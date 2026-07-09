@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ritik Singh
 
-<!--
-**RitikSinghh11/Ritiksinghh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst  
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights using SQL, Excel, Python, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠 Skills and Tools
+
+- SQL
+- Python
+- Excel
+- Tableau
+- Power BI
+- Statistics
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Projects
+
+### Loan Default Analysis
+- Cleaned and analyzed loan data
+- Built Tableau dashboards
+- Found key factors affecting loan defaults
+
+### Student Placement Analysis
+- Analyzed placement trends
+- Created interactive dashboards
+- Identified important placement drivers
+
+---
+
+Explore my Tableau dashboards here:
+Tableau: https://public.tableau.coa/app/profile/ritik.singh6294/vizzes
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ritik-singh11
+
+- Email: ritiksinghbisht124@gmail.com
+
+---
