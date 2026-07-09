@@ -34,15 +34,9 @@ I enjoy transforming raw data into meaningful insights using SQL, Excel, Python,
 
 ---
 
-Explore my Tableau dashboards here:
-Tableau: https://public.tableau.coa/app/profile/ritik.singh6294/vizzes
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ritik-singh11
 
 - Email: ritiksinghbisht124@gmail.com
 
----
