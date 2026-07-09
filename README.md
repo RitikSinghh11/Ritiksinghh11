@@ -98,6 +98,6 @@ ritiksinghbisht124@gmail.com
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-If you like my projects, don't forget to ⭐ them.
+🌟 Learning today. Building for tomorrow.
 </p>
 
