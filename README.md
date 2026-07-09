@@ -95,9 +95,4 @@ ritiksinghbisht124@gmail.com
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
-<p align="center">
-🌟 Learning today. Building for tomorrow.
-</p>
-
+<h3 align="center">🌟 Learning today. Building for tomorrow.</h3>
