@@ -48,25 +48,25 @@ I enjoy transforming raw data into meaningful insights through data analysis, vi
 
 ## 📊 Loan Default Risk Analysis
 
-✔ Cleaned and analyzed loan dataset
+- Cleaned and analyzed loan dataset
 
-✔ Built an interactive Tableau dashboard
+- Built an interactive Tableau dashboard
 
-✔ Performed correlation analysis and hypothesis testing
+- Performed correlation analysis and hypothesis testing
 
-✔ Generated business recommendations to reduce default risk
+- Generated business recommendations to reduce default risk
 
 ---
 
 ## 🎓 Student Placement Analysis
 
-✔ Analyzed placement trends using Excel and Tableau
+- Analyzed placement trends using Excel and Tableau
 
-✔ Built interactive dashboards
+- Built interactive dashboards
 
-✔ Identified factors affecting placement success
+- Identified factors affecting placement success
 
-✔ Suggested actionable recommendations
+- Suggested actionable recommendations
 
 ---
 
