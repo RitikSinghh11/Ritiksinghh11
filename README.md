@@ -79,24 +79,6 @@ https://public.tableau.com/app/profile/ritik.singh6294/vizzes
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RitikSinghh11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikSinghh11&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikSinghh11&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 💼 **LinkedIn**  
