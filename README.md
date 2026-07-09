@@ -95,4 +95,4 @@ ritiksinghbisht124@gmail.com
 
 ---
 
-<h3 align="center">🌟 Learning today. Building for tomorrow.</h3>
+<h3 align="center">⭐ Learning today. Building for tomorrow.</h3>
