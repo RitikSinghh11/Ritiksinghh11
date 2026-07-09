@@ -94,5 +94,7 @@ ritiksinghbisht124@gmail.com
 > **"Without data, you're just another person with an opinion."** — W. Edwards Deming
 
 ---
-
-<h3 align="center">⭐ Learning today. Building for tomorrow.</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<p align="center">
+Learning today. Building for tomorrow.
+</p>
