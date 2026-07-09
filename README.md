@@ -8,12 +8,6 @@ Data Analyst | SQL • Python • Excel • Tableau • Power BI
 I enjoy transforming raw data into meaningful insights through data analysis, visualization, and business intelligence.
 </p>
 
-<p align="center">
-  <a href="https://github.com/RitikSinghh11">
-    <img src="https://komarev.com/ghpvc/?username=RitikSinghh11&label=Profile%20Views&color=0e75b6&style=flat"/>
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
