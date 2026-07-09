@@ -5,10 +5,7 @@ Data Analyst | SQL • Python • Excel • Tableau • Power BI
 </h3>
 
 <p align="center">
-I enjoy transforming raw data into meaningful insights through data analysis, visualization, and business intelligence with experience in data analysis, dashboarding and exploratory data analysis (EDA).
-</p>
-
----
+I enjoy transforming raw data into meaningful insights through data analysis, visualization, and business intelligence.
 
 # 👨‍💻 About Me
 
